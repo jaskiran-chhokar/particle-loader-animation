@@ -7,3 +7,5 @@ This loader animation was implemented using HTML5 Canvas feature.
 ```
 
 You can find this project as a pen on CodePen.io at this link: https://codepen.io/jaskiranchhokar/pen/rdeqpJ
+
+Or, you can visit the live webpage here: https://jaskiran-chhokar.github.io/particle-loader-animation/
